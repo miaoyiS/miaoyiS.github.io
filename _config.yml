@@ -2,18 +2,14 @@ title: 生活记录
 description: 无
 permalink: ':title/'
 baseurl: "/miaoyiS.github.io"
-url: "https://miaoyis.github.io" 
+url: "" 
 site-twitter: 
 
 # 设置
 author: 小苗子 
 author-img: david-freeman.jpg 
-about-author: 一个一个懒惰的人
-social-twitter: 
-social-facebook: 
-social-github: miaoyiS 
-social-linkedin: 
-social-email: 
+about-author: 一个懒惰的人
+
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
