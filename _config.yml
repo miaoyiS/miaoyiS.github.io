@@ -1,30 +1,27 @@
-title: Hello, world! I'm David Freeman
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: 生活记录
+description: 无
 permalink: ':title/'
-baseurl: "/miaoyiS.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "/miaoyiS.github.io"
+url: "https://miaoyis.github.io" 
+site-twitter: 
 
-# Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: miaoyiS # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+# 设置
+author: 小苗子 
+author-img: david-freeman.jpg 
+about-author: 一个一个懒惰的人
+social-twitter: 
+social-facebook: 
+social-github: miaoyiS 
+social-linkedin: 
+social-email: 
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics:
 
-# Build Settings
+
 markdown: kramdown
 plugins:
   - jekyll-sitemap
